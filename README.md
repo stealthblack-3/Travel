@@ -1,3 +1,7 @@
+
+![travel copy](https://github.com/user-attachments/assets/ad55c7cc-68af-4e81-997b-5173ff09f68b)
+
+---
 # Travel App 🌍
 
 Welcome to **Travel App**, a modern and responsive travel application built with **Next.js** and **Tailwind CSS**. This app is designed to provide users with an intuitive and visually appealing interface for exploring travel destinations, booking trips, and managing travel plans.
