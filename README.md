@@ -76,7 +76,7 @@ Follow these steps to set up and run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/travel_app.git
+   git clone [https://github.com/your-username/travel_app.git](https://github.com/stealthblack-3/Travel.git)
    cd travel_app
    ```
 
